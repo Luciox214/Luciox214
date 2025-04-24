@@ -33,10 +33,7 @@ public class AboutMe {
 
 ### 🚀 About Me
 - 💻 I develop web and desktop applications using modern technologies.
-- ⚡ Enthusiastic about **cybersecurity**.
-- 🎯 Constantly seeking to learn and explore new trends in tech.
-- 🏆 Advocate of **clean code**, **best practices**, and **efficiency**.
-- 🎨 Passionate about UI/UX design and creating intuitive user experiences.
+- 🎯 Constantly seeking to learn.
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400px" align="center" />
 
