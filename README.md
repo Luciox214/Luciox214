@@ -29,13 +29,6 @@ public class AboutMe {
 
 ```
 
----
-
-### 🚀 About Me
-- 💻 I develop web and desktop applications using modern technologies.
-- 🎯 Constantly seeking to learn.
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400px" align="center" />
 
 ---
 
